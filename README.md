@@ -59,7 +59,7 @@ A simple Discord bot that listens for LaTeX equations in a specific channel and 
 2. **Run the bot**:
 
    ```bash
-   python bot.py
+   python main.py
    ```
 
 3. **Post equations** in your LaTeX channel, for example:
@@ -93,4 +93,4 @@ A simple Discord bot that listens for LaTeX equations in a specific channel and 
 MIT License. Feel free to fork and improve!
 ```
 
-Save that as `README.md` alongside your `bot.py` (or whatever you named it) and `requirements.txt`. You’re good to go!
+Save that as `README.md` alongside your `main.py` (or whatever you named it) and `requirements.txt`. You’re good to go!
